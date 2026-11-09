@@ -1,0 +1,18 @@
+{
+  "name": "BassPath: Daily Bass Practice",
+  "short_name": "BassPath",
+  "description": "A gamified daily companion for the StudyBass.com bass guitar curriculum.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4EF",
+  "theme_color": "#5B4BDB",
+  "categories": ["education", "music"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
